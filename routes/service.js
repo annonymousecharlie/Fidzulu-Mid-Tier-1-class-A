@@ -3,7 +3,7 @@ var router = express.Router();
 const request = require('request');
 
 let ports={
-  "bike":3031,
+  "bikes":3031,
   "food":3032,
   "toys":3033
 }
