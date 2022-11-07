@@ -3,9 +3,9 @@ var router = express.Router();
 const request = require('request');
 
 let ports={
-  "laptops":3036,
-  "books":3034,
-  "dvds":3035
+  "bike":3031,
+  "food":3032,
+  "toys":3033
 }
 
 /* GET users listing. */
